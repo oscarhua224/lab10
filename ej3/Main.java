@@ -1,5 +1,3 @@
-package ejercicio3;
-
 import javax.swing.*;
 
 public class Main {
