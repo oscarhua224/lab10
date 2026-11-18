@@ -1,5 +1,3 @@
-package ejercicio4;
-
 import javax.swing.*;
 import javax.sound.sampled.*;
 import java.io.*;
