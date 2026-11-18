@@ -1,5 +1,3 @@
-package ejercicio3;
-
 import javax.sound.sampled.*;
 import javax.swing.*;
 import java.io.IOException;
