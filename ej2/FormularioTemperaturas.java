@@ -1,5 +1,3 @@
-package ejercicio2;
-
 import javax.swing.*;
 import java.awt.*;
 
