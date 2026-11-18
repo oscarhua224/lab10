@@ -1,5 +1,3 @@
-package ejemplo1;
-
 import javax.swing.*;
 
 public class FormularioPersona {
